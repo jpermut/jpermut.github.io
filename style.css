@@ -93,11 +93,13 @@ nav.pinned {
 .fancy-title {
     color: white;
     font-family: 'Montserrat', sans-serif;
+    font-size: 60px;
 }
 
 h6 {
-    
+
     font-family: 'Montserrat', sans-serif;
+    font-size: 16px;
 }
 
 /* About
