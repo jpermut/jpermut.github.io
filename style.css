@@ -90,6 +90,16 @@ nav.pinned {
     font-weight: bold;
 }
 
+.fancy-title {
+    color: white;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h6 {
+    
+    font-family: 'Montserrat', sans-serif;
+}
+
 /* About
 ------------------------------------------------------------ */
 
