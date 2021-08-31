@@ -168,6 +168,7 @@ h6 {
     .hero h1 {
         font-size: 30px;
         padding-top: 20rem;
+        overflow: scroll;
     }
     
     .arrow {
